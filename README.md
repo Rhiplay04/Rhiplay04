@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rhiplay04
-- 👀 I’m interested in Business Analytics, AI and Home Automation
+- 👀 I’m interested in Business Analytics, AI, Containerization and Home Automation
 - 🌱 I’m currently studying Economical Computer Science
-- 💞️ I’m looking to collaborate on fun Home Automation Projects
+- 💞️ I’m looking to collaborate on fun AI or Container Projects
 - 📫 How to reach me meckeleinb04@gmail.com
 - ⚡ Fun fact: I like lightning MC Queen
 
